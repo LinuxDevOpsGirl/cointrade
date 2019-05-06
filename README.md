@@ -1,10 +1,8 @@
-# OpenTrade is the best opensource cryptocurrency exchange!
+# CoinTrade is the best opensource cryptocurrency exchange run on Linux!
 
-For build this you need NPM, Node and Forever-Service
+For run CoinTrade in your Linux you will need NPM, Node and Forever-Service setup. 
 
-
-Live version:https://trade.multicoins.org/market/MC-BTC
-
+Based on OpenTrade! Check Live version:https://trade.multicoins.org/market/MC-BTC
 
 Step-by-step install instructions:
 
